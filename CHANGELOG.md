@@ -1,5 +1,14 @@
 # Changelog
 
+## 5.8.5 (2025-08-18)
+
+Full Changelog: [v5.8.4...v5.8.5](https://github.com/cloudflare/terraform-provider-cloudflare/compare/v5.8.4...v5.8.5)
+
+### Bug Fixes
+
+* check before de-referencing potentially null ptrs ([d756bed](https://github.com/cloudflare/terraform-provider-cloudflare/commit/d756bedf7e379203574db49ee1f76d4d8f4196b5))
+* **ruleset:** update data sources and documentation ([6a312e4](https://github.com/cloudflare/terraform-provider-cloudflare/commit/6a312e4362c82e4c56db912c6787f2e0b0cc2c29))
+
 ## 5.8.4 (2025-08-15)
 
 Full Changelog: [v5.8.3...v5.8.4](https://github.com/cloudflare/terraform-provider-cloudflare/compare/v5.8.3...v5.8.4)
